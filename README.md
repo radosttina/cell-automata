@@ -1,7 +1,10 @@
-<h1>Tree of Life</h1>
+# Conway's Game of Life
 
-<p1>Tree of Life simulation, developed with <code>Pyglet</code>.</p1>
+<p><a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life">Conway's Game of Life</a> simulation.</p>
 
-<p1>The user can either draw the starting patterns or choose a picture.</p1>
+#### Stack
+<ul>
+  <li>Python</li>
+  <li>Pyglet<l/i>
+</ul>
 
-![Image 1](tree_of_life.png)
